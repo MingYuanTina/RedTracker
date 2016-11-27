@@ -1,0 +1,16 @@
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\teee.exe.config
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\teee.exe
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\teee.pdb
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\RestSharp.dll
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\Twilio.Api.dll
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\Twilio.Mvc.dll
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\Twilio.Twiml.dll
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\RestSharp.xml
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\Twilio.Api.pdb
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\Twilio.Api.xml
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\Twilio.Mvc.pdb
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\Twilio.Mvc.xml
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\Twilio.Twiml.pdb
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\bin\Debug\Twilio.Twiml.xml
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\obj\Debug\teee.exe
+c:\users\davin\documents\visual studio 2015\Projects\teee\teee\obj\Debug\teee.pdb
