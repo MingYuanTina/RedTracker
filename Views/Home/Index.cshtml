@@ -1,0 +1,61 @@
+﻿@model IEnumerable<SurgiNeer.Models.Apply>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<img src="~/images/background.jpg" height="100%" width="100%"/>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                First Name
+            </th>
+            <th>
+                Phone Number
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Details)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                    <div id="historyLog1" style="display:none;">
+                        <div>10/16/2016</div>
+                        <div>11/18/2016</div>
+                        <div>12/20/2016</div>
+                    </div>
+                </td>
+                <td>
+                    1234 5678
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.ID">Further Screening</a> 
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script>
+        function DisplayHistory(firstName)
+        {
+            if (document.getElementById("historyLog1"))
+            {
+                document.getElementById("historyLog1").style.display = "block";
+            }
+            else
+            {
+                document.getElementById("historyLog1").style.display = "none";
+            }
+
+        }
+
+        function PopMessage(){
+            alert("Message Sent")
+        }
+</script>
